@@ -1,4 +1,4 @@
-# omicron
+# omicron 
 
 This simple model shows the difference in transmission rates between alpha, delta and omicron. Please do not take this as a serious scientific proof of any kind. I used simple model of bouncing circles with flags meaning "healthy" and "ill" where "healthy" may become "ill" with some probability P if they meet together. Now, depends on the variant of the virus the P changes.
 
