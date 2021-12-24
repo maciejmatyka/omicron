@@ -3,7 +3,7 @@
 This simple model shows the difference in transmission rates between alpha, delta and omicron. Please do not take this as a serious scientific proof of any kind. I used simple model of bouncing circles with flags meaning "healthy" and "ill" where "healthy" may become "ill" with some probability P if they meet together. Now, depends on the variant of the virus the P changes.
 
 Values of P that I took are relative, not definite. What I mean is that the goal was to see the difference between virus variants, not definite answer on how fast it spreads or anything like that. I calculated values of P using three sources which gave me
-delta = 125% of alpha
+delta = 125% of alpha 
 omicron = 4.2 x delta
 Sources:
 1) https://fortune.com/2021/12/08/omicron-covid-variant-data-more-transmissible-than-delta-new-study/
